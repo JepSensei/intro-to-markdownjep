@@ -130,6 +130,11 @@ __NOTE__: We can add a baloon tip description to our link by using double quotes
 `<p> This is a paragraph tag with an inline code block example opening and closing tags </p>`
 
 ---
+<!--IMAGE Rule-->
+
+![This is an image](https://ichef.bbci.co.uk/news/976/cpsprodpb/17638/production/_124800859_gettyimages-817514614.jpg.webp "Link to a dog image")
+
+---
 
 <!--GITHUB FLAVOR SET OF CODE BLOCK-->
 
