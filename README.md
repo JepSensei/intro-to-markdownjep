@@ -121,3 +121,10 @@ __NOTE__: We can add a baloon tip description to our link by using double quotes
     5.1 This is our list item 5 child item 1
   
     5.2 This is our list item 5 child item 2
+
+---
+
+<!--Code Block Inline Example Rule-->
+
+**NOTE**: *__Backtics__ will allow us to show the code block or the paragraph tags in this example. It is located below the tilde character and on top of the tab key*
+`<p> This is a paragraph tag with an inline code block example opening and closing tags </p>`
